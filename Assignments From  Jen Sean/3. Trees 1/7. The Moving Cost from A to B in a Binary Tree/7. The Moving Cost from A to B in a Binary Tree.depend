@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1645461064 source:c:\users\sean\onedrive - nanyang technological university\y1s2\data structures and algorithms - sc1007\assignments\3. trees\7. the moving cost from a to b in a binary tree\main.c
+	<stdio.h>
+	<stdlib.h>
+

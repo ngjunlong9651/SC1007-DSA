@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645180224 source:c:\users\sean\onedrive - nanyang technological university\y1s2\data structures and algorithms - sc1007\assignments\3. trees\6. expression tree\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

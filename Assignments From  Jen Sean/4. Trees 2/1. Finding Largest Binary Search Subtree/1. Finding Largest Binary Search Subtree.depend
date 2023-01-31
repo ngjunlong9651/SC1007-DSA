@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1645807228 source:c:\users\sean\onedrive - nanyang technological university\y1s2\data structures and algorithms - sc1007\assignments\4. trees 2\1. finding largest binary search subtree\main.c
+	<stdio.h>
+	<stdlib.h>
+

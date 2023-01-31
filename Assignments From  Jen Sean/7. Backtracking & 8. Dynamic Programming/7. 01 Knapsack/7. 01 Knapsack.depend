@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1649669173 source:c:\users\sean\onedrive - nanyang technological university\y1s2\data structures and algorithms - sc1007\assignments\7. backtracking & 8. dynamic programming\7. 01 knapsack\main.c
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+
